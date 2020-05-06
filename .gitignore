@@ -1,0 +1,4 @@
+### ignore js folder ###
+/js/
+### ignore all .js files ###
+*.js
